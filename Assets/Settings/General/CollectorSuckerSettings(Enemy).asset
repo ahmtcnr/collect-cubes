@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38f805f39af04715a6b5771c35457a60, type: 3}
+  m_Name: CollectorSuckerSettings(Enemy)
+  m_EditorClassIdentifier: 
+  _delayTimeToInactivation: 2
+  _collectionForce: 15
+  _layerAfterCollection:
+    serializedVersion: 2
+    m_Bits: 512
+  _collectColor: {r: 0.9339623, g: 0.26882082, b: 0.16300285, a: 1}
